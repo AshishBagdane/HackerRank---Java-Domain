@@ -1,0 +1,8 @@
+package hackerrank.java.strings.introduction;
+
+class Regex {
+    String pattern = "^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+	"([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+	"([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
+	"([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
+}
